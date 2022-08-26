@@ -1,0 +1,3 @@
+Hello my name is Bryan I am interested in exploring multiple coding projects, and extending my understanding of multiple languages and alternative methods of coding.
+My primary interests are Java, C, HTML, CSS, and Javascript. I am open to more, but these are my core compatencies. I mostly work inside Unix environments despite my previously working techincal support for Windows products.
+So I won't mock you for using Mac or roll my eyes if you mention Linux. Please feel free to say hello. I am happy to help you if you have questions or take some 'polite' criticism if you think I could do better.
